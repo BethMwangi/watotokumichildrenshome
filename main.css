@@ -13,28 +13,33 @@ height: 200px;
     background-image: url(img/08bd8c2.png)
 }
 
-#section {
+#sidebar {
  height:600px;
     width: 900px;
-    background-color: blanchedalmond;
+    background-color:aliceblue;
     
     
 }
 
+
 #topsidebar {
     height: 100px;
     width: 300px;
-    position: fixed;
+    margin-top: 20px;
     top: inherit;
     margin-bottom: 60px;
     float:left;
+    display: inline-block;
     background-color: #7CFC00;
+
 }
 
 #middlesidebar{
   height: 100px;
     width: 300px;
     margin-bottom: 60px;
+clear: left;
+    display: inline-block;
     float:left;
     background-color: #00FFFF;
 }
@@ -44,6 +49,8 @@ height: 200px;
      height: 100px;
     width: 300px;
     float:left;
+    clear: left;
+     display: inline-block;
     background-color: #FF4500;
 }
 
