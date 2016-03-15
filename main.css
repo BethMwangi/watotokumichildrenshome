@@ -1,0 +1,56 @@
+#Container{
+width:900px;
+    height: auto;
+    background-color: bisque;
+
+}
+
+#header {
+width:900px;
+height: 200px;
+    position: inherit;
+    clear: both;
+    background-image: url(img/08bd8c2.png)
+}
+
+#section {
+ height:600px;
+    width: 900px;
+    background-color: blanchedalmond;
+    
+    
+}
+
+#topsidebar {
+    height: 100px;
+    width: 300px;
+    position: fixed;
+    top: inherit;
+    margin-bottom: 60px;
+    float:left;
+    background-color: #7CFC00;
+}
+
+#middlesidebar{
+  height: 100px;
+    width: 300px;
+    margin-bottom: 60px;
+    float:left;
+    background-color: #00FFFF;
+}
+
+#bottomsidebar{
+    
+     height: 100px;
+    width: 300px;
+    float:left;
+    background-color: #FF4500;
+}
+
+#footer {
+width:900px;
+    height:100px;
+    background-color: dimgray;
+    clear:both;
+
+}
