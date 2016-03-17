@@ -67,8 +67,17 @@ float: right;
     
     
 }
-
-
+#sidebar figure {
+    display: inline-table;
+    border-spacing: 20px;
+    width:2%;
+    margin:0;
+}
+#sidebar figure img {
+margin: 0 0 10px;
+height: 250px;
+width: 250px;
+}
 #topsidebar {
     height: 100px;
     width: 300px;
