@@ -1,12 +1,18 @@
 #Container{
 width:900px;
+<<<<<<< HEAD
 margin: auto;
+=======
+    height: auto;
+    background-color: bisque;
+>>>>>>> 71dbfca22e4ac6a0184fc8028f0d0a39a73bb142
 
 }
 
 #header {
 width:900px;
 height: 200px;
+<<<<<<< HEAD
 background-image: url(img/08bd8c2.png)
 }
 
@@ -52,6 +58,11 @@ float: right;
     border-bottom: 2px solid #DDD;
     
     
+=======
+    position: inherit;
+    clear: both;
+    background-image: url(img/08bd8c2.png)
+>>>>>>> 71dbfca22e4ac6a0184fc8028f0d0a39a73bb142
 }
 
 #sidebar {
@@ -101,6 +112,7 @@ width:900px;
     background-color: dimgray;
     clear:both;
 
+<<<<<<< HEAD
 }
 h2 {
 text-transform:uppercase;
@@ -108,4 +120,6 @@ font-family: Arial, sans-serif;
 font-weight: bold;
 font-size: 20px;
 padding: inherit;
+=======
+>>>>>>> 71dbfca22e4ac6a0184fc8028f0d0a39a73bb142
 }
