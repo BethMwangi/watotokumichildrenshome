@@ -63,6 +63,7 @@ float: right;
 #sidebar {
  height:600px;
     width: 900px;
+    float: left;
     background-color:aliceblue;
     
     
@@ -89,6 +90,16 @@ width: 270px;
     background-color: #7CFC00;
     border-radius: 8px;
 
+}
+#sidebar h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    color:aqua;
+}
+#sidebar p{
+    font-family: sans-serif;
+     text-transform:lowercase;
 }
 
 #middlesidebar{
