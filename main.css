@@ -63,9 +63,8 @@ float: right;
 #sidebar {
  height:600px;
     width: 900px;
-    float: left;
     background-color:aliceblue;
-    
+    padding-right: 10px;
     
 }
 #sidebar figure {
@@ -163,4 +162,8 @@ width:900px;
     margin-bottom: 5px;
     display: block;
     padding-top: 5px;
+}
+.sideview  p {
+    font-size:12px;
+    
 }
