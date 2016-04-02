@@ -161,6 +161,6 @@ h2 {
 .shape {
     shape-margin: url("img/FMSC-Haiti-IMG_2550.jpg");
     shape-image-threshold: 0.9;
-    width: 400px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
 }
