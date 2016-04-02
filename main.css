@@ -108,6 +108,9 @@
 #side-content {
     margin-left: 350px;
 }
+#side-content h2 {
+    font-size: 40px;
+}
 h2 {
     text-transform: uppercase;
     font-family: Arial, sans-serif;
@@ -146,9 +149,9 @@ h2 {
 .sideview p {
     font-size: 12px;
 }
-.content-home p {
+#side-content p {
     font-family: sans-serif;
-    line-height: 20px;
+    line-height: 25px;
 }
 .content {
     margin: 0;
